@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926725505168",
+    "project_id": "fir-pagination-f500b",
+    "storage_bucket": "fir-pagination-f500b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926725505168:android:58a16fbfec715de1a85815",
+        "android_client_info": {
+          "package_name": "com.example.androidarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926725505168-24jqsp4ipr5ha2hcn8f77v09rcgjikkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvB9GfN4-dV34hgMy9mmSepI4RaY_gV9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926725505168-24jqsp4ipr5ha2hcn8f77v09rcgjikkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
